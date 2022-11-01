@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "jshint": "^2.13.5"
+  },
+  "name": "czapraga_lukasz_pr_03",
+  "version": "1.0.0",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "jshintConfig": {
+    "esversion": 6,
+    "undef": true,
+    "unused":true,
+    "maxparams":2,
+    "globals": [
+      "console"
+    ]
+  }
+}
